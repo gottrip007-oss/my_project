@@ -10,7 +10,8 @@ A full-stack platform for small businesses to manage services, bookings, invoice
 - Analytics dashboard
 - Cloud-ready deployment (Docker)
 
-## Architecture
+## Architecture\
+\\
 
 ![Architecture Diagram](architecture.png)
 
